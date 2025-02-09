@@ -12,7 +12,12 @@ Developed by th using Fast. Use this extension as text path animation.
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-02-09 timezone="Asia/Calcutta"]<br>
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br><br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
+<br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
+**Apps On PlayStore:** [here](https://play.google.com/store/apps/dev?id=6332469651067611923)
+<br><br>
 
 ## <kbd>Events:</kbd>
 **TextPathView** has total 2 events.
