@@ -198,6 +198,9 @@ Set the text weight
 Set the duration of the animation
 
 * Input type: `number`
+### demo video 
+
+https://youtube.com/shorts/I_smgEa0iy0?si=_t47DREwhAFy20Js
 
 ### Thanks
   TechHamara
